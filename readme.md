@@ -91,9 +91,7 @@ npm start
 
 ## **Demo**  
 
-![App Demo](https://via.placeholder.com/800x400?text=Insert+App+Demo+GIF+or+Screenshot+Here)  
-*(Replace this placeholder with an actual GIF or screenshot showing the app in action.)*
-
+![App Demo]("/Users/sumitkumarsingh/Downloads/Pan Card Tampering Flask App/Demo.png")  
 ---
 
 ## **Technologies Used**  

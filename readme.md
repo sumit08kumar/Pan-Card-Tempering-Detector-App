@@ -91,7 +91,7 @@ npm start
 
 ## **Demo**  
 
-![App Demo]("/Users/sumitkumarsingh/Downloads/Pan Card Tampering Flask App/Demo.png")  
+![App Demo](Demo.png)  
 ---
 
 ## **Technologies Used**  

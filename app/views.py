@@ -6,7 +6,7 @@ from skimage.metrics import structural_similarity
 import imutils
 import cv2
 from PIL import Image
-
+import distutils.core 
 # Adding platform-independent paths using os.path.join
 base_dir = os.path.abspath(os.path.dirname(__file__))  # Get the absolute path of the current file's directory
 
